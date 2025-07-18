@@ -2,7 +2,7 @@
 
 ## Introduction-What-is-NLTK?
 
-> Seaborn is a powerful and popular Python library specifically designed for creating attractive and informative statistical graphics. Built on top of Matplotlib, it offers a higher-level interface that simplifies the process of generating complex visualizations, especially when working with Pandas DataFrames. Seaborn excels at helping users explore and understand their data by providing a wide array of specialized plot types for visualizing relationships between variables, distributions, and categorical data, often incorporating statistical estimations like regression lines or confidence intervals automatically. Its appealing default styles, color palettes, and concise syntax make it a go-to tool for data scientists and analysts seeking to effectively communicate insights from their data with minimal coding effort.
+> NLTK, or the Natural Language Toolkit, is a powerful and widely used open-source library for Python that provides a comprehensive suite of programs, data, and tutorials for Natural Language Processing (NLP). Its primary purpose is to make it easier for researchers and developers to work with human language data, offering tools for tasks such as tokenization, stemming, lemmatization, parsing, classification, and semantic reasoning, serving as a foundational toolkit for both learning and building NLP applications.
 
 
 ## 1. Setup & Data Acquisition
